@@ -1,0 +1,9 @@
+ofxGui
+ofxOpenCv
+ofxOsc
+ofxXmlSettings
+ofxControlPanel
+ofxCv
+ofxOgsn
+ofxQuadWarp
+ofxTrueTypeFontUC

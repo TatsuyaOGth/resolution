@@ -1,0 +1,22 @@
+# .gitignore
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/default.*
+*/*xcodeproj/*.xcworkspace/
+*/*.xcodeproj/xcshareddata/
+*/*.xcodeproj/xcuserdata/
+
+data/
+*.png
+*.jpg
+*.tiff
+*.bmp
+*.mov
+*.m4v
+*.avi
+bin/
+build/
+temp/
+data
+!README.txt
+
